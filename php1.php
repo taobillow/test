@@ -1,2 +1,3 @@
 <?php
-phpinfo();    
+phpinfo();
+cout<<"firist edit"<<endl;
